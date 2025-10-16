@@ -1,0 +1,9 @@
+/* static/style.css */
+body { font-family: Arial, Helvetica, sans-serif; background: #f6f7fb; color: #222; }
+.container { max-width: 640px; margin: 40px auto; background: #fff; padding: 24px; border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,0.06);}
+h1 { margin-top: 0; }
+.buttons { display:flex; gap:12px; margin-top:12px; }
+button { padding:10px 14px; border-radius:6px; border:none; cursor:pointer; background:#2563eb; color:white;}
+button:nth-child(2){ background:#059669; }
+button:nth-child(3){ background:#db2777; }
+#status { margin-top:14px; }
